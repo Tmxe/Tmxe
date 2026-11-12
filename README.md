@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Tmxe 👋
 
-<!--
-**Tmxe/Tmxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small, focused developer tools that run entirely in the browser — no uploads, no servers, your files stay on your machine.
 
-Here are some ideas to get you started:
+#### 🛠️ Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does |
+| --- | --- |
+| [**har-trace-studio**](https://github.com/Tmxe/har-trace-studio) | Inspect HAR network waterfalls and compare two captures to spot slow or failing endpoints. |
+| [**sqlite-schema-diff**](https://github.com/Tmxe/sqlite-schema-diff) | Compare two SQLite database files and see exactly which tables, columns, indexes and keys changed. |
+
+More tools on the way.
+
+#### 🧰 Tech
+
+`JavaScript` · `HTML/CSS` · `Web Workers` · `WebAssembly` · `Python`
+
+#### 📈 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tmxe&show_icons=true&hide_border=true&theme=transparent)
