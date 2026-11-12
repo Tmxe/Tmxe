@@ -14,7 +14,3 @@ More tools on the way.
 #### 🧰 Tech
 
 `JavaScript` · `HTML/CSS` · `Web Workers` · `WebAssembly` · `Python`
-
-#### 📈 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tmxe&show_icons=true&hide_border=true&theme=transparent)
